@@ -1,4 +1,8 @@
-# Healthcare Appointment & Patient Management System
+# Healthcare Appointment & Patient Management System - Group 11
+## Team Members:
+`Hanshika Anchan`
+`Manas More`
+`Sahil Sable`
 
 ## Tech Stack
 - **Frontend**: Flutter
